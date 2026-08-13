@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-12T17:43:52 IST" name="Default suite" finished-at="2026-08-12T17:44:04 IST" duration-ms="11754">
+    <groups>
+    </groups>
+    <test started-at="2026-08-12T17:43:52 IST" name="Default test" finished-at="2026-08-12T17:44:04 IST" duration-ms="11754">
+      <class name="SeleniumLocatorsCaseStudy.IdNameXpathCaseStudy2">
+        <test-method signature="LocatorsCaseStudy2()[pri:0, instance:SeleniumLocatorsCaseStudy.IdNameXpathCaseStudy2@692f203f]" started-at="2026-08-12T17:43:52 IST" name="LocatorsCaseStudy2" finished-at="2026-08-12T17:44:04 IST" duration-ms="11701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocatorsCaseStudy2 -->
+      </class> <!-- SeleniumLocatorsCaseStudy.IdNameXpathCaseStudy2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
