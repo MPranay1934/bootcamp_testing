@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-11T19:22:20 IST" name="Default suite" finished-at="2026-08-11T19:24:02 IST" duration-ms="101792">
+    <groups>
+    </groups>
+    <test started-at="2026-08-11T19:22:20 IST" name="Default test" finished-at="2026-08-11T19:24:02 IST" duration-ms="101792">
+      <class name="com.CasestudiesBrowserCommands.FirefoxTest">
+        <test-method signature="BrowserTitle()[pri:0, instance:com.CasestudiesBrowserCommands.FirefoxTest@4d5d943d]" started-at="2026-08-11T19:22:20 IST" name="BrowserTitle" finished-at="2026-08-11T19:22:39 IST" duration-ms="18367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle -->
+        <test-method signature="BrowserTitle1()[pri:0, instance:com.CasestudiesBrowserCommands.FirefoxTest@4d5d943d]" started-at="2026-08-11T19:22:39 IST" name="BrowserTitle1" finished-at="2026-08-11T19:22:52 IST" duration-ms="13350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle1 -->
+        <test-method signature="BrowserTitle2()[pri:0, instance:com.CasestudiesBrowserCommands.FirefoxTest@4d5d943d]" started-at="2026-08-11T19:22:52 IST" name="BrowserTitle2" finished-at="2026-08-11T19:23:04 IST" duration-ms="12315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle2 -->
+        <test-method signature="BrowserTitle3()[pri:0, instance:com.CasestudiesBrowserCommands.FirefoxTest@4d5d943d]" started-at="2026-08-11T19:23:04 IST" name="BrowserTitle3" finished-at="2026-08-11T19:23:16 IST" duration-ms="11223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle3 -->
+        <test-method signature="BrowserTitle4()[pri:0, instance:com.CasestudiesBrowserCommands.FirefoxTest@4d5d943d]" started-at="2026-08-11T19:23:16 IST" name="BrowserTitle4" finished-at="2026-08-11T19:23:34 IST" duration-ms="18768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle4 -->
+        <test-method signature="BrowserTitle5()[pri:0, instance:com.CasestudiesBrowserCommands.FirefoxTest@4d5d943d]" started-at="2026-08-11T19:23:34 IST" name="BrowserTitle5" finished-at="2026-08-11T19:23:49 IST" duration-ms="14291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle5 -->
+        <test-method signature="BrowserTitle6()[pri:0, instance:com.CasestudiesBrowserCommands.FirefoxTest@4d5d943d]" started-at="2026-08-11T19:23:49 IST" name="BrowserTitle6" finished-at="2026-08-11T19:24:02 IST" duration-ms="13400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle6 -->
+      </class> <!-- com.CasestudiesBrowserCommands.FirefoxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
