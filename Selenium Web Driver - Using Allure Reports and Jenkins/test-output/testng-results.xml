@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-12T20:08:44 IST" name="Default suite" finished-at="2026-08-12T20:11:38 IST" duration-ms="173697">
+    <groups>
+    </groups>
+    <test started-at="2026-08-12T20:08:44 IST" name="Default test" finished-at="2026-08-12T20:11:38 IST" duration-ms="173697">
+      <class name="SeleniumWebDriver.JenkinsAllureReportsTest">
+        <test-method signature="BrowserTitle()[pri:0, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:08:44 IST" name="BrowserTitle" finished-at="2026-08-12T20:08:58 IST" duration-ms="13671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle -->
+        <test-method signature="BrowserTitle1()[pri:1, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:08:58 IST" name="BrowserTitle1" finished-at="2026-08-12T20:09:07 IST" duration-ms="8748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle1 -->
+        <test-method signature="BrowserTitle2()[pri:2, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:09:07 IST" name="BrowserTitle2" finished-at="2026-08-12T20:09:15 IST" duration-ms="8787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle2 -->
+        <test-method signature="BrowserTitle3()[pri:3, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:09:16 IST" name="BrowserTitle3" finished-at="2026-08-12T20:09:23 IST" duration-ms="7491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle3 -->
+        <test-method signature="BrowserTitle4()[pri:4, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:09:23 IST" name="BrowserTitle4" finished-at="2026-08-12T20:09:31 IST" duration-ms="8482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle4 -->
+        <test-method signature="BrowserTitle5()[pri:5, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:09:31 IST" name="BrowserTitle5" finished-at="2026-08-12T20:09:40 IST" duration-ms="8894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle5 -->
+        <test-method signature="BrowserTitle6()[pri:6, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:09:40 IST" name="BrowserTitle6" finished-at="2026-08-12T20:10:24 IST" duration-ms="43683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle6 -->
+        <test-method signature="BrowserTitle7()[pri:7, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:10:24 IST" name="BrowserTitle7" finished-at="2026-08-12T20:10:34 IST" duration-ms="10211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle7 -->
+        <test-method signature="BrowserTitle8()[pri:8, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:10:34 IST" name="BrowserTitle8" finished-at="2026-08-12T20:10:42 IST" duration-ms="8082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle8 -->
+        <test-method signature="BrowserTitle9()[pri:9, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:10:42 IST" name="BrowserTitle9" finished-at="2026-08-12T20:10:51 IST" duration-ms="8331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle9 -->
+        <test-method signature="BrowserTitle10()[pri:10, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:10:51 IST" name="BrowserTitle10" finished-at="2026-08-12T20:11:00 IST" duration-ms="9008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle10 -->
+        <test-method signature="BrowserTitle11()[pri:11, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:11:00 IST" name="BrowserTitle11" finished-at="2026-08-12T20:11:11 IST" duration-ms="11056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle11 -->
+        <test-method signature="BrowserTitle12()[pri:12, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:11:11 IST" name="BrowserTitle12" finished-at="2026-08-12T20:11:20 IST" duration-ms="9644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle12 -->
+        <test-method signature="BrowserTitle13()[pri:13, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:11:20 IST" name="BrowserTitle13" finished-at="2026-08-12T20:11:29 IST" duration-ms="8526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle13 -->
+        <test-method signature="BrowserTitle14()[pri:14, instance:SeleniumWebDriver.JenkinsAllureReportsTest@449a4f23]" started-at="2026-08-12T20:11:29 IST" name="BrowserTitle14" finished-at="2026-08-12T20:11:38 IST" duration-ms="8857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTitle14 -->
+      </class> <!-- SeleniumWebDriver.JenkinsAllureReportsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
