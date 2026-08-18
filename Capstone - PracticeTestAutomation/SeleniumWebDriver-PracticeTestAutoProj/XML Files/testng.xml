@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Utility.BrowserFactory"/>
+      <class name="com.PracticeTestAuto.TestCases.LoginPracticeTestAutomation"/>
+      <class name="com.PracticeTestAuto.Pages.LoginPage"/>
+      <class name="com.PracticeTestAuto.Pages.BaseClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
